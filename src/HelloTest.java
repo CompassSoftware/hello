@@ -23,7 +23,7 @@ public class HelloTest {
 		
 		// Check for desired result
 		String s = baos.toString();
-		if (! "Hello, world.\n".equals(s))
+		if (! "Hello, Jay.\n".equals(s))
 			fail("Not yet implemented");
 	}
 
